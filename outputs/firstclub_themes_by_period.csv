@@ -1,0 +1,25 @@
+period,code,theme,all_reviews,negatives_labelled,share_of_negatives,per_100_reviews
+Apr-Jun 2026,Q,Quality / freshness / expiry,480,77,0.221,3.542
+Apr-Jun 2026,L,Late delivery,480,77,0.117,1.875
+Apr-Jun 2026,R,Refund & support,480,77,0.156,2.5
+Apr-Jun 2026,A,App / tech / payments,480,77,0.325,5.208
+Apr-Jun 2026,U,Not serviceable in my area,480,77,0.156,2.5
+Apr-Jun 2026,P,Price & fees,480,77,0.182,2.917
+Apr-Jun 2026,X,Cancelled / not delivered,480,77,0.091,1.458
+Apr-Jun 2026,W,Wrong / missing items,480,77,0.052,0.833
+Jul-Oct 2026,Q,Quality / freshness / expiry,1156,248,0.177,3.806
+Jul-Oct 2026,L,Late delivery,1156,248,0.113,2.422
+Jul-Oct 2026,R,Refund & support,1156,248,0.21,4.498
+Jul-Oct 2026,A,App / tech / payments,1156,248,0.282,6.055
+Jul-Oct 2026,U,Not serviceable in my area,1156,248,0.161,3.46
+Jul-Oct 2026,P,Price & fees,1156,248,0.169,3.633
+Jul-Oct 2026,X,Cancelled / not delivered,1156,248,0.056,1.211
+Jul-Oct 2026,W,Wrong / missing items,1156,248,0.028,0.606
+Jun 2025-Mar 2026,Q,Quality / freshness / expiry,569,60,0.15,1.582
+Jun 2025-Mar 2026,L,Late delivery,569,60,0.033,0.351
+Jun 2025-Mar 2026,R,Refund & support,569,60,0.217,2.285
+Jun 2025-Mar 2026,A,App / tech / payments,569,60,0.383,4.042
+Jun 2025-Mar 2026,U,Not serviceable in my area,569,60,0.183,1.933
+Jun 2025-Mar 2026,P,Price & fees,569,60,0.233,2.46
+Jun 2025-Mar 2026,X,Cancelled / not delivered,569,60,0.067,0.703
+Jun 2025-Mar 2026,W,Wrong / missing items,569,60,0.0,0.0

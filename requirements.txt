@@ -1,0 +1,6 @@
+pandas
+numpy
+statsmodels
+scikit-learn
+matplotlib
+# optional: google-play-scraper (re-collect), google-genai (LLM labelling)

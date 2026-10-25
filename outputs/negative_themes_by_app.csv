@@ -1,0 +1,73 @@
+app,code,theme,n,mentions,share,ci_low,ci_high,primary_share
+BigBasket,Q,Quality / freshness / expiry,300,63,0.21,0.1677,0.2596,0.19
+BigBasket,R,Refund & support,300,103,0.3433,0.2919,0.3987,0.0633
+BigBasket,A,App / tech / payments,300,39,0.13,0.0966,0.1728,0.1067
+BigBasket,P,Price & fees,300,28,0.0933,0.0654,0.1316,0.0633
+BigBasket,U,Not serviceable in my area,300,24,0.08,0.0543,0.1163,0.08
+BigBasket,X,Cancelled / not delivered,300,58,0.1933,0.1526,0.2418,0.16
+BigBasket,W,Wrong / missing items,300,23,0.0767,0.0516,0.1124,0.07
+BigBasket,L,Late delivery,300,35,0.1167,0.0851,0.1579,0.11
+BigBasket,B,Delivery partner behaviour,300,24,0.08,0.0543,0.1163,0.0533
+BigBasket,M,Offers / wallet / membership,300,21,0.07,0.0462,0.1046,0.0367
+BigBasket,S,Stock / selection,300,8,0.0267,0.0136,0.0517,0.0233
+BigBasket,O,Other / unclear,300,14,0.0467,0.028,0.0768,0.0433
+Blinkit,Q,Quality / freshness / expiry,300,75,0.25,0.2044,0.302,0.2133
+Blinkit,R,Refund & support,300,113,0.3767,0.3237,0.4327,0.1833
+Blinkit,A,App / tech / payments,300,35,0.1167,0.0851,0.1579,0.0933
+Blinkit,P,Price & fees,300,49,0.1633,0.1258,0.2094,0.1433
+Blinkit,U,Not serviceable in my area,300,6,0.02,0.0092,0.0429,0.0167
+Blinkit,X,Cancelled / not delivered,300,20,0.0667,0.0436,0.1007,0.05
+Blinkit,W,Wrong / missing items,300,27,0.09,0.0626,0.1278,0.0767
+Blinkit,L,Late delivery,300,22,0.0733,0.0489,0.1085,0.0567
+Blinkit,B,Delivery partner behaviour,300,37,0.1233,0.0908,0.1654,0.09
+Blinkit,M,Offers / wallet / membership,300,10,0.0333,0.0182,0.0603,0.0233
+Blinkit,S,Stock / selection,300,2,0.0067,0.0018,0.024,0.0033
+Blinkit,O,Other / unclear,300,15,0.05,0.0305,0.0808,0.05
+FirstClub,Q,Quality / freshness / expiry,385,70,0.1818,0.1465,0.2234,0.1351
+FirstClub,R,Refund & support,385,77,0.2,0.1631,0.2428,0.0442
+FirstClub,A,App / tech / payments,385,118,0.3065,0.2625,0.3543,0.2416
+FirstClub,P,Price & fees,385,70,0.1818,0.1465,0.2234,0.1299
+FirstClub,U,Not serviceable in my area,385,63,0.1636,0.13,0.2039,0.1584
+FirstClub,X,Cancelled / not delivered,385,25,0.0649,0.0444,0.0941,0.0442
+FirstClub,W,Wrong / missing items,385,11,0.0286,0.016,0.0504,0.0234
+FirstClub,L,Late delivery,385,39,0.1013,0.075,0.1355,0.0727
+FirstClub,B,Delivery partner behaviour,385,9,0.0234,0.0123,0.0438,0.0182
+FirstClub,M,Offers / wallet / membership,385,23,0.0597,0.0401,0.088,0.039
+FirstClub,S,Stock / selection,385,14,0.0364,0.0218,0.0601,0.0182
+FirstClub,O,Other / unclear,385,30,0.0779,0.0551,0.1091,0.0753
+Instamart,Q,Quality / freshness / expiry,300,70,0.2333,0.189,0.2844,0.1933
+Instamart,R,Refund & support,300,112,0.3733,0.3205,0.4293,0.1
+Instamart,A,App / tech / payments,300,37,0.1233,0.0908,0.1654,0.09
+Instamart,P,Price & fees,300,42,0.14,0.1053,0.1838,0.0933
+Instamart,U,Not serviceable in my area,300,16,0.0533,0.0331,0.0849,0.0533
+Instamart,X,Cancelled / not delivered,300,28,0.0933,0.0654,0.1316,0.07
+Instamart,W,Wrong / missing items,300,34,0.1133,0.0822,0.1542,0.1
+Instamart,L,Late delivery,300,17,0.0567,0.0357,0.0889,0.05
+Instamart,B,Delivery partner behaviour,300,23,0.0767,0.0516,0.1124,0.06
+Instamart,M,Offers / wallet / membership,300,36,0.12,0.088,0.1617,0.11
+Instamart,S,Stock / selection,300,10,0.0333,0.0182,0.0603,0.0233
+Instamart,O,Other / unclear,300,17,0.0567,0.0357,0.0889,0.0567
+Zepto,Q,Quality / freshness / expiry,300,90,0.3,0.2509,0.3541,0.2633
+Zepto,R,Refund & support,300,150,0.5,0.4438,0.5562,0.1533
+Zepto,A,App / tech / payments,300,33,0.11,0.0794,0.1505,0.0967
+Zepto,P,Price & fees,300,30,0.1,0.0709,0.1392,0.0833
+Zepto,U,Not serviceable in my area,300,7,0.0233,0.0113,0.0474,0.0233
+Zepto,X,Cancelled / not delivered,300,24,0.08,0.0543,0.1163,0.07
+Zepto,W,Wrong / missing items,300,47,0.1567,0.1199,0.2021,0.1167
+Zepto,L,Late delivery,300,34,0.1133,0.0822,0.1542,0.0933
+Zepto,B,Delivery partner behaviour,300,17,0.0567,0.0357,0.0889,0.0233
+Zepto,M,Offers / wallet / membership,300,14,0.0467,0.028,0.0768,0.0367
+Zepto,S,Stock / selection,300,2,0.0067,0.0018,0.024,0.0067
+Zepto,O,Other / unclear,300,11,0.0367,0.0206,0.0645,0.0333
+Competitors (pooled),Q,Quality / freshness / expiry,1200,298,0.2483,0.2247,0.2736,0.215
+Competitors (pooled),R,Refund & support,1200,478,0.3983,0.371,0.4263,0.125
+Competitors (pooled),A,App / tech / payments,1200,144,0.12,0.1028,0.1396,0.0967
+Competitors (pooled),P,Price & fees,1200,149,0.1242,0.1067,0.144,0.0958
+Competitors (pooled),U,Not serviceable in my area,1200,53,0.0442,0.0339,0.0573,0.0433
+Competitors (pooled),X,Cancelled / not delivered,1200,130,0.1083,0.092,0.1272,0.0875
+Competitors (pooled),W,Wrong / missing items,1200,131,0.1092,0.0928,0.1281,0.0908
+Competitors (pooled),L,Late delivery,1200,108,0.09,0.0751,0.1075,0.0775
+Competitors (pooled),B,Delivery partner behaviour,1200,101,0.0842,0.0698,0.1012,0.0567
+Competitors (pooled),M,Offers / wallet / membership,1200,81,0.0675,0.0546,0.0831,0.0517
+Competitors (pooled),S,Stock / selection,1200,22,0.0183,0.0121,0.0276,0.0142
+Competitors (pooled),O,Other / unclear,1200,57,0.0475,0.0368,0.061,0.0458
